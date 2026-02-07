@@ -6,8 +6,9 @@ Pythoner, Automation and Design
 
 * 🌍  I'm based in İzmir
 * ✉️  You can contact me at [buldanlioglusamet@gmail.com](mailto:buldanlioglusamet@gmail.com)
-* 🧠  I'm learning Java
+* 🧠  Interested in: ML, Computer Vision, Image Processing, Automation
 * 🤝  I'm open to collaborating on interesting projects
+
 
 <a href="https://www.github.com/sametceng" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sametceng?logo=github&style=for-the-badge&color=6366f1&labelColor=1e3a8a" /></a>
