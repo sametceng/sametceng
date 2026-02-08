@@ -1,7 +1,7 @@
 Hi 👋 My name is Samet Buldanlıoğlu
 ===================================
 
-Pythoner, Automation and Design
+Pythoner, AI and ML
 -------------------------------
 
 * 🌍  I'm based in İzmir
