@@ -6,7 +6,7 @@ Pythoner, AI and ML
 
 * 🌍  I'm based in İzmir
 * ✉️  You can contact me at [buldanlioglusamet@gmail.com](mailto:buldanlioglusamet@gmail.com)
-* 🧠  Interested in: ML, Computer Vision, Image Processing, Automation
+* 🧠  Interested in: ML, Computer Vision, Image Processing
 * 🤝  I'm open to collaborating on interesting projects
 
 
